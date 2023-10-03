@@ -1,0 +1,16 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1696363001
+Button.gd::GDScript::-1::1696362995::0::1::::<>ColorRect<>::
+default_env.tres::Environment::-1::1696362995::0::1::::<><>::
+Examples.tscn::PackedScene::-1::1696362995::0::1::::<><>::res://icon.png<>res://resources/floaty_64.png<>res://resources/offset_glow.png<>res://resources/random_selection.png<>res://resources/effect_4.png<>res://resources/spotlight_8.png<>res://resources/spotlight_7.png<>res://resources/spotlight_1.png<>res://wiggle_scale.gd<>res://rotate_continuos.gd<>res://Button.gd
+icon.png::CompressedTexture2D::6930959139300088293::1696362936::1696363002::1::::<><>::
+rotate_continuos.gd::GDScript::-1::1696362995::0::1::::<>Sprite2D<>::
+wiggle_scale.gd::GDScript::-1::1696362995::0::1::::<>Node2D<>::
+::res://resources/::1696362936
+effect_4.png::CompressedTexture2D::8572132522748084281::1696362936::1696363002::1::::<><>::
+floaty_64.png::CompressedTexture2D::388496689131134965::1696362936::1696363002::1::::<><>::
+offset_glow.png::CompressedTexture2D::8614092144949068692::1696362936::1696363002::1::::<><>::
+random_selection.png::CompressedTexture2D::6322732118673023295::1696362936::1696363002::1::::<><>::
+spotlight_1.png::CompressedTexture2D::1778302505143563225::1696362936::1696363002::1::::<><>::
+spotlight_7.png::CompressedTexture2D::8733954262744134480::1696362936::1696363002::1::::<><>::
+spotlight_8.png::CompressedTexture2D::6454765459946506556::1696362936::1696363002::1::::<><>::
